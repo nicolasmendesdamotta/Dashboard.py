@@ -62,7 +62,7 @@ pip install streamlit pandas plotly
 ### 2️⃣ Run the dashboard
 streamlit run dashboard.py
 
-📈 Key Features
+# 📈 Key Features
 ✅ KPIs Section
 
 Displays high-level business indicators such as:
